@@ -331,9 +331,6 @@ export default function LandingPage() {
         </div>
 
         <div className="nc">
-          <a href="https://bojonegorokab.go.id/" target="_blank" rel="noreferrer">
-            <button className="bto">Portal Resmi</button>
-          </a>
           <a href="/login"><button className="bts">Masuk</button></a>
         </div>
 
@@ -463,7 +460,6 @@ export default function LandingPage() {
           </div>
           <div className="fl">
             <a href="#fitur">Fitur</a><a href="#kategori">Kategori</a><a href="#aset">Data Aset</a>
-            <a href="https://bojonegorokab.go.id/" target="_blank" rel="noreferrer">Portal Resmi</a>
             <a href="/login">Masuk</a>
           </div>
         </div>
